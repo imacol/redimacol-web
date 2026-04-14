@@ -5,3 +5,4 @@ export default function Home() {
       <p>Mi primera web funcionando 😈</p>
     </main>
   );
+}
